@@ -4,10 +4,10 @@
 
 
 @font-face {
-  font-family: 'isonorm';
-  src: url('../assets/isonorm.otf');
+  font-family: 'iso';
+  src: url('../assets/iso.woff');
 }
 
 * {
-  font-family: 'isonorm';
+  font-family: 'iso';
 }

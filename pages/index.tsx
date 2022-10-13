@@ -5,7 +5,6 @@ const Home: NextPage = () => {
 	return (
     <body className=" h-screen  bg-black ">
       <div className="flex w-screen justify-center pt-20">
-        <div className=" text-white ">LINKS</div>
         <LinkList />
       </div>
     </body>

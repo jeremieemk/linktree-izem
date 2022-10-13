@@ -4,6 +4,7 @@ type LinkItemProps = {
     link: {
         title: string;
         url: string;
+        description: string;
         cta: string;
         tags: string[];
     };
@@ -48,6 +49,7 @@ const LinkItem = ({ link }: LinkItemProps) => {
                                 </span>
                             ))}
                         </div>
+                        <p className=" text-base text-white md:text-xl ">{link.description}</p>
                     </div>
                 </div>
             </motion.div>
