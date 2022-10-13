@@ -1,6 +1,6 @@
 import type { NextPage } from "next";
 import Header from "./components/Header";
-import LinkList from "./components/linkList";
+import LinkList from "./components/LinkList";
 
 const Home: NextPage = () => {
 	return (
