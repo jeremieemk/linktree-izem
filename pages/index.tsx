@@ -4,7 +4,7 @@ import LinkList from "./components/LinkList";
 
 const Home: NextPage = () => {
 	return (
-    <div className=" h-screen  bg-black ">
+    <div className=" h-full w-full bg-black pb-10 ">
       <Header />
       <div className="flex w-screen justify-center">
         <LinkList />
