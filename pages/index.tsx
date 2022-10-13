@@ -1,14 +1,15 @@
 import type { NextPage } from "next";
+import Header from "./components/Header";
 import LinkList from "./components/linkList";
 
 const Home: NextPage = () => {
 	return (
-    <body className=" h-screen  bg-black ">
-      <div className="flex w-screen justify-center pt-20">
+    <div className=" h-screen  bg-black ">
+      <Header />
+      <div className="flex w-screen justify-center">
         <LinkList />
       </div>
-    </body>
-		
+    </div>
 	);
 };
 
