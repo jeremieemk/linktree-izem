@@ -24,10 +24,10 @@ const LinkItem = ({ link }: LinkItemProps) => {
 			>
 				<div>
 					<div className=" flex ">
-						<a href={link.url} target="_blank" rel="noreferrer">
+						<a href={link.url} target="_blank" rel="noreferrer" className="">
 							<Image
 								src={link.img}
-								alt="yemamaya album cover"
+								alt=""
 								width={200}
 								height={200}
 							/>
@@ -41,7 +41,7 @@ const LinkItem = ({ link }: LinkItemProps) => {
 							href={link.url}
 							target="_blank"
 							rel="noreferrer"
-							className=" px-4 flex items-center text-white text-2xl md:text-4xl uppercase font-bold "
+							className=" px-4 w-fullitems-center  text-white text-2xl md:text-4xl uppercase font-bold "
 						>
 							{link.title}
 						</motion.a>

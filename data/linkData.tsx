@@ -1,5 +1,13 @@
 export const linkData = [
 	{
+		title: "iZem's Heavy Rotation Playlist",
+		description: "My favourite tracks of the moment.",
+		url: "https://open.spotify.com/playlist/1h3UnAa5Be9I1l0cXI9NGS",
+		img: "/img/tambores.png",
+		cta: "listen",
+		tags: ["video", "beat"],
+	},
+	{
 		title: "LUIZGA + iZem - Yemamaya (video)",
 		description: "A groovy summer track made with love. In collaboration with Brazilian singer songwriter LUIZGA.",
 		url: "https://www.youtube.com/watch?v=jrFbJcn89mw&ab_channel=LUIZGA",
@@ -35,7 +43,7 @@ export const linkData = [
 		title: "...More stuff on my website",
 		description: "Read some background about my work + download free edits and remixes 🧸",
 		url: "https://www.izem.me/work",
-		img: "/img/tambores.png",
+		img: "/img/site.png",
 		cta: "visit",
 		tags: ["video", "beat"],
 	},
