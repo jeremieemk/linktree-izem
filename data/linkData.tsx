@@ -1,5 +1,13 @@
 export const linkData = [
 	{
+		title: "LUIZGA + iZem - Yemamaya EP",
+		description: "Last December I spent a few days in a Lisbon studio with Brazilian singer songwriter Luizga. We put together a 5-track EP called 'Yemamaya'.",
+		url: "https://alterk.lnk.to/Yemamaya",
+		img: "/img/yemamaya-ep.png",
+		cta: "listen",
+		tags: ["video", "beat"],
+	},
+	{
 		title: "iZem's Heavy Rotation Playlist",
 		description: "My favourite tracks of the moment.",
 		url: "https://open.spotify.com/playlist/1h3UnAa5Be9I1l0cXI9NGS",
