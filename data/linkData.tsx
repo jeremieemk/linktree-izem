@@ -1,5 +1,13 @@
 export const linkData = [
 	{
+		title: "LUIZGA + iZem - Yemamaya (David Walters Remix)",
+		description: "Our friend David Walters made us a beautiful Christmas present by remixing our summer hit 'Yemamaya'",
+		url: "https://alterk.lnk.to/YemamayaRemix",
+		img: "/img/yemamayaremix.png",
+		cta: "listen",
+		tags: ["video", "beat"],
+	},
+	{
 		title: "LUIZGA + iZem - Yemamaya EP",
 		description: "Last December I spent a few days in a Lisbon studio with Brazilian singer songwriter Luizga. We put together a 5-track EP called 'Yemamaya'.",
 		url: "https://alterk.lnk.to/Yemamaya",
