@@ -1,26 +1,10 @@
 export const linkData = [
-	// {
-	// 	title: "LUIZGA + iZem - Yemamaya (David Walters Remix)",
-	// 	description: "Our friend David Walters made us a beautiful Christmas present by remixing our summer hit 'Yemamaya'",
-	// 	url: "https://alterk.lnk.to/YemamayaRemix",
-	// 	img: "/img/yemamayaremix.png",
-	// 	cta: "listen",
-	// 	tags: ["video", "beat"],
-	// },
 	{
-		title: "LUIZGA + iZem - Yemamaya EP",
-		description: "Last December I spent a few days in a Lisbon studio with Brazilian singer songwriter Luizga. We put together a 5-track EP called 'Yemamaya'.",
-		url: "https://alterk.lnk.to/Yemamaya",
-		img: "/img/yemamaya-ep.png",
-		cta: "listen",
-		tags: ["video", "beat"],
-	},
-	{
-		title: "iZem's Heavy Rotation Playlist",
-		description: "My favourite tracks of the moment.",
-		url: "https://open.spotify.com/playlist/1h3UnAa5Be9I1l0cXI9NGS",
-		img: "/img/tambores.png",
-		cta: "listen",
+		title: "iZem Lab #1",
+		description: "Every month on Piñata Radio, I share some edits and remixes I have been tweaking in my studio, mixed with a few of my current favorites.",
+		url: "https://youtu.be/NL6NovaK1Q0",
+		img: "/img/izem-lab1.jpeg",
+		cta: "watch",
 		tags: ["video", "beat"],
 	},
 	{
@@ -32,6 +16,23 @@ export const linkData = [
 		tags: ["video", "beat"],
 	},
 	{
+		title: "LUIZGA + iZem - Yemamaya EP",
+		description: "Last December I spent a few days in a Lisbon studio with Brazilian singer songwriter Luizga. We put together a 5-track EP called 'Yemamaya'.",
+		url: "https://alterk.lnk.to/Yemamaya",
+		img: "/img/yemamaya-ep.png",
+		cta: "listen",
+		tags: ["video", "beat"],
+	},
+	// {
+	// 	title: "iZem's Heavy Rotation Playlist",
+	// 	description: "My favourite tracks of the moment.",
+	// 	url: "https://open.spotify.com/playlist/1h3UnAa5Be9I1l0cXI9NGS",
+	// 	img: "/img/tambores.png",
+	// 	cta: "listen",
+	// 	tags: ["video", "beat"],
+	// },
+
+	{
 		title: "LUIZGA + iZem - Txaismo (video)",
 		description: "A reggae track about the Huni Kuin indigenous people written by Brazilian singer songwriter LUIZGA. Produced by yours truly.",
 		url: "https://www.youtube.com/watch?v=wcRI7pehcYg&ab_channel=LUIZGA",
@@ -39,14 +40,14 @@ export const linkData = [
 		cta: "watch",
 		tags: ["video", "beat"],
 	},
-	{
-		title: "Lass - Yaco Mome (iZem remix)",
-		description: "I had the chance to remix a song of Lass' brilliant debut album. Play it loud 🔊",
-		url: "https://lass.lnk.to/YacoMome-iZem-Remix",
-		img: "/img/lass.jpeg",
-		cta: "listen",
-		tags: ["video", "beat"],
-	},
+	// {
+	// 	title: "Lass - Yaco Mome (iZem remix)",
+	// 	description: "I had the chance to remix a song of Lass' brilliant debut album. Play it loud 🔊",
+	// 	url: "https://lass.lnk.to/YacoMome-iZem-Remix",
+	// 	img: "/img/lass.jpeg",
+	// 	cta: "listen",
+	// 	tags: ["video", "beat"],
+	// },
 	{
 		title: "iZem in Mucem, Marseille (Dj set / video)",
 		description: "Expect plenty of unreleased remixes and bootlegs.Thanks to Elton John for lending me his favourite sunglasses 😎",
