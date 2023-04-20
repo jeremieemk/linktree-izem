@@ -2,7 +2,7 @@ export const linkData = [
 	{
 		title: "iZem Lab #1",
 		description: "Every month on Piñata Radio, I share some edits and remixes I have been tweaking in my studio, mixed with a few of my current favorites.",
-		url: "https://youtu.be/NL6NovaK1Q0",
+		url: "https://soundcloud.com/pinataradio/izem-170423",
 		img: "/img/izem-lab1.jpeg",
 		cta: "watch",
 		tags: ["video", "beat"],
