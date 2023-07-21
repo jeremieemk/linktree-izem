@@ -1,20 +1,28 @@
 export const linkData = [
 	{
+		title: "iZem - 6am",
+		description: "The new single from my upcoming album 'in Ze early morning",
+		url: "https://alterk.lnk.to/6AM",
+		img: "/img/6am.jpg",
+		cta: "listen",
+		tags: ["video", "beat"],
+	},
+	{
 		title: "iZem + Lucas Santtana - Maria Antonieta",
-		description: "This is the first single from my upcoming album 'in Ze early morning",
+		description: "This is the first single from my upcoming album 'in Ze early morning, featuring Lucas Santtana.",
 		url: "https://alterk.lnk.to/MariaAntonieta",
 		img: "/img/maria-antonieta.jpg",
 		cta: "listen",
 		tags: ["video", "beat"],
 	},
-	{
-		title: "LUIZGA + iZem - Yemamaya (video)",
-		description: "A groovy summer track made with love. In collaboration with Brazilian singer songwriter LUIZGA.",
-		url: "https://www.youtube.com/watch?v=jrFbJcn89mw&ab_channel=LUIZGA",
-		img: "/img/yemamaya.jpeg",
-		cta: "watch",
-		tags: ["video", "beat"],
-	},
+	// {
+	// 	title: "LUIZGA + iZem - Yemamaya (video)",
+	// 	description: "A groovy summer track made with love. In collaboration with Brazilian singer songwriter LUIZGA.",
+	// 	url: "https://www.youtube.com/watch?v=jrFbJcn89mw&ab_channel=LUIZGA",
+	// 	img: "/img/yemamaya.jpeg",
+	// 	cta: "watch",
+	// 	tags: ["video", "beat"],
+	// },
 	{
 		title: "LUIZGA + iZem - Yemamaya EP",
 		description: "Last December I spent a few days in a Lisbon studio with Brazilian singer songwriter Luizga. We put together a 5-track EP called 'Yemamaya'.",
@@ -32,14 +40,14 @@ export const linkData = [
 	// 	tags: ["video", "beat"],
 	// },
 
-	{
-		title: "LUIZGA + iZem - Txaismo (video)",
-		description: "A reggae track about the Huni Kuin indigenous people written by Brazilian singer songwriter LUIZGA. Produced by yours truly.",
-		url: "https://www.youtube.com/watch?v=wcRI7pehcYg&ab_channel=LUIZGA",
-		img: "/img/txaismo.jpeg",
-		cta: "watch",
-		tags: ["video", "beat"],
-	},
+	// {
+	// 	title: "LUIZGA + iZem - Txaismo (video)",
+	// 	description: "A reggae track about the Huni Kuin indigenous people written by Brazilian singer songwriter LUIZGA. Produced by yours truly.",
+	// 	url: "https://www.youtube.com/watch?v=wcRI7pehcYg&ab_channel=LUIZGA",
+	// 	img: "/img/txaismo.jpeg",
+	// 	cta: "watch",
+	// 	tags: ["video", "beat"],
+	// },
 	// {
 	// 	title: "Lass - Yaco Mome (iZem remix)",
 	// 	description: "I had the chance to remix a song of Lass' brilliant debut album. Play it loud 🔊",
@@ -48,14 +56,14 @@ export const linkData = [
 	// 	cta: "listen",
 	// 	tags: ["video", "beat"],
 	// },
-	{
-		title: "iZem in Mucem, Marseille (Dj set / video)",
-		description: "Expect plenty of unreleased remixes and bootlegs.Thanks to Elton John for lending me his favourite sunglasses 😎",
-		url: "https://www.youtube.com/watch?v=f8p4VHcg8F4&ab_channel=iZem",
-		img: "/img/mucem.jpeg",
-		cta: "watch",
-		tags: ["video", "beat"],
-	},
+	// {
+	// 	title: "iZem in Mucem, Marseille (Dj set / video)",
+	// 	description: "Expect plenty of unreleased remixes and bootlegs.Thanks to Elton John for lending me his favourite sunglasses 😎",
+	// 	url: "https://www.youtube.com/watch?v=f8p4VHcg8F4&ab_channel=iZem",
+	// 	img: "/img/mucem.jpeg",
+	// 	cta: "watch",
+	// 	tags: ["video", "beat"],
+	// },
 	{
 		title: "...More stuff on my website",
 		description: "Read some background about my work + download free edits and remixes 🧸",
